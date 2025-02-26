@@ -22,7 +22,7 @@ HTML5: Estrutura semântica e acessível. CSS3: Estilização avançada com supo
 
 Clone o Repositório Clone o repositório para sua máquina:
 
-bash Copiar código git clone https://github.com/seu-usuario/meteora.git Abra o arquivo index.html em um navegador.
+bash Copiar código git clone https://github.com/Renato8318/Loja-de-Roupas/tree/main?tab=readme-ov-file Abra o arquivo index.html em um navegador.
 
 Explore a Loja Navegue pelas seções, explore as categorias de produtos e confira as ofertas. Utilize o formulário de busca para encontrar rapidamente os itens desejados.
 
